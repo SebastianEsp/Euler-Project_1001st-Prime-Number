@@ -1,0 +1,6 @@
+c:\users\sebastianesp\documents\visual studio 2012\Projects\Prime Calculator\Prime Calculator\bin\Debug\Prime Calculator.exe.config
+c:\users\sebastianesp\documents\visual studio 2012\Projects\Prime Calculator\Prime Calculator\obj\Debug\Prime Calculator.csprojResolveAssemblyReference.cache
+c:\users\sebastianesp\documents\visual studio 2012\Projects\Prime Calculator\Prime Calculator\bin\Debug\Prime Calculator.exe
+c:\users\sebastianesp\documents\visual studio 2012\Projects\Prime Calculator\Prime Calculator\bin\Debug\Prime Calculator.pdb
+c:\users\sebastianesp\documents\visual studio 2012\Projects\Prime Calculator\Prime Calculator\obj\Debug\Prime Calculator.exe
+c:\users\sebastianesp\documents\visual studio 2012\Projects\Prime Calculator\Prime Calculator\obj\Debug\Prime Calculator.pdb
